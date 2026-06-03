@@ -1,0 +1,1 @@
+- [GSAP ScrollTrigger pin in React](gsap-pin-react.md) — pin:true physically moves DOM nodes, breaking React reconciliation; use CSS overflow scroll instead.

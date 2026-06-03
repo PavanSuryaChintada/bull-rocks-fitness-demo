@@ -36,3 +36,63 @@ id = "ln89FHms6ly5kkVAUIBQ2"
 uri = "file://artifacts/bullrocks-fitness/public/images/athlete-deadlift.png"
 type = "image"
 title = "generated_image"
+
+[[generated]]
+id = "vp6epxnO5k8bitVR7tr08"
+uri = "file://artifacts/bullrocks-fitness/public/images/facility-strength.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "HHDkfp1Gp6c-oZu1MV8uf"
+uri = "file://artifacts/bullrocks-fitness/public/images/facility-functional.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "6CgoNqFKQ-tB4crXPUdia"
+uri = "file://artifacts/bullrocks-fitness/public/images/facility-personal.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "KH5QAN6juMTk-5wP6bI97"
+uri = "file://artifacts/bullrocks-fitness/public/images/facility-cardio.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "7d-pery9vKMFf1kL4YS2f"
+uri = "file://artifacts/bullrocks-fitness/public/images/facility-transformation.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "x9Hp7pq3KBSM7elJC0eDa"
+uri = "file://artifacts/bullrocks-fitness/public/images/facility-nutrition.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "32z9u6CME5ba_HK68Yj92"
+uri = "file://artifacts/bullrocks-fitness/public/images/trainer-1.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "GFrP3ulYXEJ_4PWRpzOoK"
+uri = "file://artifacts/bullrocks-fitness/public/images/trainer-2.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "50pSUAc_EqnvIFD1IaK3G"
+uri = "file://artifacts/bullrocks-fitness/public/images/trainer-3.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "qrCYxCbQQ6YvMK4aXndnI"
+uri = "file://artifacts/bullrocks-fitness/public/images/program-fatloss.png"
+type = "image"
+title = "generated_image"

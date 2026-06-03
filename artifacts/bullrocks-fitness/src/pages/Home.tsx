@@ -5,7 +5,9 @@ import { Hero } from "@/sections/Hero";
 import { MarqueeStrip } from "@/components/MarqueeStrip";
 import { Storytelling } from "@/sections/Storytelling";
 import { About } from "@/sections/About";
+import { WhyUs } from "@/sections/WhyUs";
 import { Facilities } from "@/sections/Facilities";
+import { Programs } from "@/sections/Programs";
 import { Membership } from "@/sections/Membership";
 import { Trainers } from "@/sections/Trainers";
 import { Transformations } from "@/sections/Transformations";
@@ -48,12 +50,14 @@ export default function Home() {
       <Preloader />
       <CustomCursor />
       <Navbar />
-      
+
       <Hero />
       <MarqueeStrip />
       <Storytelling />
       <About />
+      <WhyUs />
       <Facilities />
+      <Programs />
       <Membership />
       <Trainers />
       <Transformations />
