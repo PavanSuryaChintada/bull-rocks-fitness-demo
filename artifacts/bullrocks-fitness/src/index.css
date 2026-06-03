@@ -142,10 +142,19 @@
   --shadow-2xl: 0px 2px 0px 0px hsl(20 100% 50% / 0.00);
 }
 
+@keyframes float {
+  0% { transform: translateY(0px) translateX(0px); }
+  50% { transform: translateY(-12px) translateX(4px); }
+  100% { transform: translateY(4px) translateX(-4px); }
+}
+
 @layer base {
   * {
     @apply border-border;
-    cursor: none;
+  }
+
+  @media (min-width: 768px) {
+    * { cursor: none; }
   }
   
   html, body {
