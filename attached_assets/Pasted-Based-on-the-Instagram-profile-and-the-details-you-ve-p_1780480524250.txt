@@ -1,0 +1,571 @@
+Based on the Instagram profile and the details you've provided, I would not build Bullrocks Fitness as a typical gym website.
+
+The Instagram shows:
+
+* Hardcore gym culture
+* Strength training focus
+* Personal training emphasis
+* Transformation-driven marketing
+* Black dominant branding
+* Raw, powerful energy
+* Community-oriented gym
+* Local authority in Vizag / Sujathanagar / Anakapalli region
+
+So the website should feel like **Gymshark × Nike × Awwwards × Cyberpunk Fitness**, not a WordPress gym template.
+
+---
+
+# CREATIVE DIRECTION
+
+### Theme
+
+**"FORGE YOUR STRONGEST SELF"**
+
+A cinematic journey from ordinary to elite.
+
+The website should make visitors feel:
+
+> "If I join Bullrocks, I'll become a different person."
+
+---
+
+# VISUAL IDENTITY
+
+### Primary Colors
+
+```css
+#000000   Pure Black
+#0A0A0A   Background Black
+#111111   Secondary Surface
+#FFFFFF   Pure White
+#C0C0C0   Steel Silver
+#2B2B2B   Dark Metal
+```
+
+### Accent Colors
+
+```css
+#FF4D00   Energy Orange
+#FF7300   Burnt Orange
+```
+
+### Gradient
+
+```css
+linear-gradient(
+135deg,
+#FF4D00,
+#FF7300
+)
+```
+
+---
+
+# FONTS
+
+### Headings
+
+Bebas Neue
+
+### Body
+
+Inter
+
+### Numbers
+
+Space Grotesk
+
+---
+
+# WEBSITE STRUCTURE
+
+---
+
+## PRELOADER
+
+Full-screen cinematic intro.
+
+Black screen.
+
+Metallic Bullrocks logo emerges from smoke.
+
+Gym sound effects.
+
+Heartbeat.
+
+Distant iron-clanging.
+
+Logo cracks through darkness.
+
+Text:
+
+"BULLROCKS FITNESS"
+
+Then:
+
+"STRONGER EVERY DAY"
+
+Screen dissolves.
+
+---
+
+# HERO SECTION
+
+Massive Three.js environment.
+
+No static image.
+
+Create AI-generated hyper-realistic athlete.
+
+3D particles floating.
+
+Dust.
+
+Metal fragments.
+
+Volumetric lighting.
+
+Background:
+
+Dark warehouse gym.
+
+Parallax camera movement.
+
+Mouse interaction.
+
+---
+
+### Hero Content
+
+```text
+BUILD
+STRENGTH
+
+BREAK
+LIMITS
+```
+
+Subheading:
+
+```text
+Elite Fitness • Personal Training • Transformations
+```
+
+Buttons:
+
+JOIN NOW
+
+BOOK PERSONAL TRAINING
+
+---
+
+### Scroll Animation
+
+As user scrolls:
+
+Athlete slowly rotates.
+
+Camera zooms.
+
+Gym environment reveals.
+
+---
+
+# STORYTELLING SECTION
+
+Scroll-triggered storytelling.
+
+Section 1:
+
+SKINNY
+
+↓
+
+Section 2:
+
+CONSISTENT
+
+↓
+
+Section 3:
+
+DISCIPLINED
+
+↓
+
+Section 4:
+
+BULLROCKS ATHLETE
+
+Each stage morphs into next stage.
+
+AI-generated visuals.
+
+GSAP timeline.
+
+---
+
+# ABOUT BULLROCKS
+
+Split layout.
+
+Left:
+
+Cinematic gym video.
+
+Right:
+
+Story.
+
+Statistics animate.
+
+```text
+2000+
+Members
+
+100+
+Transformations
+
+5+
+Years Excellence
+
+24/7
+Motivation
+```
+
+Counter animations.
+
+---
+
+# FACILITIES SECTION
+
+3D horizontal scrolling gallery.
+
+Cards floating in space.
+
+Facilities:
+
+* Strength Training Zone
+* Functional Training
+* Personal Training
+* Cardio Area
+* Transformation Coaching
+* Nutrition Guidance
+* Weight Management
+* Muscle Building Programs
+* Fat Loss Programs
+* Group Sessions
+
+Hover animation:
+
+Card lifts.
+
+Glows.
+
+Rotates slightly.
+
+---
+
+# MEMBERSHIP EXPERIENCE
+
+Interactive pricing.
+
+Cards emerge from darkness.
+
+---
+
+### BASIC
+
+Perfect for beginners
+
+Features:
+
+* Gym Access
+* Cardio
+* Strength Equipment
+
+---
+
+### PRO
+
+Features:
+
+* Everything in Basic
+* Trainer Support
+* Diet Guidance
+
+---
+
+### ELITE
+
+Features:
+
+* Personal Training
+* Customized Workout Plan
+* Transformation Tracking
+* Priority Support
+
+Most Popular Badge.
+
+---
+
+# PERSONAL TRAINING SECTION
+
+AI-generated trainer showcase.
+
+Cinematic profile cards.
+
+Hover reveals:
+
+* Expertise
+* Certifications
+* Achievements
+
+CTA:
+
+BOOK FREE CONSULTATION
+
+---
+
+# TRANSFORMATION WALL
+
+Most important section.
+
+Infinite scrolling wall.
+
+Before/After sliders.
+
+GSAP animations.
+
+Images appear dynamically.
+
+Testimonial videos.
+
+Client stories.
+
+---
+
+# BMI CALCULATOR
+
+Glassmorphism card.
+
+User enters:
+
+* Height
+* Weight
+* Age
+
+Real-time calculations.
+
+Recommended plan generated.
+
+---
+
+# AI FITNESS ASSISTANT
+
+Floating AI coach.
+
+Bottom right.
+
+Can answer:
+
+* Membership queries
+* Pricing
+* Workout advice
+* Nutrition basics
+* Booking support
+
+Powered through OpenAI API.
+
+---
+
+# SUCCESS STORIES
+
+Auto-playing video carousel.
+
+Instagram reel style.
+
+Vertical format.
+
+Smooth transitions.
+
+---
+
+# GALLERY
+
+Pinterest-style masonry layout.
+
+AI-generated + real photos.
+
+Hover zoom.
+
+Lightbox.
+
+---
+
+# GOOGLE REVIEWS
+
+3D rotating review sphere.
+
+Reviews orbit around center.
+
+Each card glows on hover.
+
+---
+
+# LOCATION SECTION
+
+3D map experience.
+
+Gym highlighted.
+
+Driving directions.
+
+Integrated Google Maps.
+
+---
+
+# CONTACT SECTION
+
+Not a boring form.
+
+Multi-step conversion funnel.
+
+Step 1:
+
+Goal?
+
+* Weight Loss
+* Muscle Gain
+* Transformation
+* General Fitness
+
+Step 2:
+
+Contact Details
+
+Step 3:
+
+Book Consultation
+
+Submissions:
+
+* Email
+* WhatsApp
+* CRM
+
+---
+
+# FOOTER
+
+Animated metal texture.
+
+Large logo.
+
+Social icons.
+
+Instagram feed.
+
+Quick links.
+
+Contact.
+
+---
+
+# MICRO INTERACTIONS
+
+Everything animates.
+
+Buttons:
+
+Magnetic hover.
+
+Cards:
+
+3D tilt.
+
+Images:
+
+Parallax reveal.
+
+Text:
+
+Character-by-character entrance.
+
+Sections:
+
+Scroll reveal.
+
+Cursor:
+
+Custom fitness cursor.
+
+---
+
+# MOBILE EXPERIENCE
+
+Not responsive.
+
+Mobile-first premium experience.
+
+Vertical storytelling.
+
+Native-app feeling.
+
+Thumb-friendly interactions.
+
+60 FPS animations.
+
+---
+
+# ADVANCED STACK FOR REPLIT
+
+```text
+Next.js 15
+React 19
+TypeScript
+Tailwind CSS
+Framer Motion
+GSAP
+Three.js
+React Three Fiber
+Lenis Smooth Scroll
+ShadCN UI
+OpenAI API
+Google Maps API
+Supabase
+Resend Email
+```
+
+---
+
+# AWWWARDS FEATURES
+
+Must include:
+
+* WebGL Background
+* Scroll Storytelling
+* Smooth Lenis Scroll
+* Three.js Hero
+* Parallax Sections
+* Magnetic Buttons
+* Custom Cursor
+* Page Transitions
+* GSAP Timelines
+* Interactive Pricing
+* Cinematic Loading Screen
+* Motion Blur Effects
+* Infinite Marquee Animations
+* Glassmorphism Panels
+* Metallic Texture Effects
+* Dynamic Lighting
+
+---
+
+### Replit Builder Instruction
+
+```text
+Create an Awwwards-level premium fitness website for Bullrocks Fitness. The experience must feel like a luxury fitness brand rather than a local gym. Use dark metallic aesthetics, black and steel surfaces, orange energy accents, cinematic storytelling, Three.js hero scenes, GSAP scroll animations, Lenis smooth scrolling, AI-generated athlete imagery, transformation-focused marketing, lead generation funnels, membership signup conversion optimization, personal training booking flows, AI fitness assistant, BMI calculator, dynamic pricing plans, interactive facility showcases, video testimonials, transformation galleries, Google reviews integration, and premium mobile responsiveness. Every section must feel immersive, fluid, and highly interactive while maintaining fast performance and modern UX standards.
+```
+
+One recommendation: before building, ask the client for **actual membership pricing, trainer details, facility photos, and transformation photos**, because those four things will impact conversions more than any animation.

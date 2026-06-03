@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Bullrocks Fitness"
+version = "1.0.0"
+id = "artifacts/bullrocks-fitness"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22002
+
+[services.development]
+run = "pnpm --filter @workspace/bullrocks-fitness run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/bullrocks-fitness", "run", "build" ]
+publicDir = "artifacts/bullrocks-fitness/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22002"
+BASE_PATH = "/"
